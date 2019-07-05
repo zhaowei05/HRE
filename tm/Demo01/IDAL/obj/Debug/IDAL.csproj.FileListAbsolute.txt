@@ -1,0 +1,9 @@
+E:\实s\项目01\tm\Demo01\IDAL\bin\Debug\IDAL.dll
+E:\实s\项目01\tm\Demo01\IDAL\bin\Debug\IDAL.pdb
+E:\实s\项目01\tm\Demo01\IDAL\bin\Debug\Entity.dll
+E:\实s\项目01\tm\Demo01\IDAL\bin\Debug\Entity.pdb
+E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.dll
+E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.pdb

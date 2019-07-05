@@ -1,0 +1,12 @@
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\Entity.dll
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\Entity.pdb
+E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.dll
+E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.pdb
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.dll
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.xml
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\实s\项目01\tm\Demo01\Entity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.csproj.CopyComplete
