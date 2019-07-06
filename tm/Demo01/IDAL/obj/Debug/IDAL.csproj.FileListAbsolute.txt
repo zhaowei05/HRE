@@ -7,3 +7,10 @@ E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
 E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csproj.CopyComplete
 E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.dll
 E:\实s\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\bin\Debug\IDAL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\bin\Debug\IDAL.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\bin\Debug\Entity.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\bin\Debug\Entity.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IDAL\obj\Debug\IDAL.pdb

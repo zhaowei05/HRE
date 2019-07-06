@@ -1,0 +1,9 @@
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\DAL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\DAL.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\Entity.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\IDAL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\Entity.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\bin\Debug\IDAL.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\obj\Debug\DAL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\DAL\obj\Debug\DAL.pdb

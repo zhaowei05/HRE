@@ -10,3 +10,13 @@ E:\实s\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.SqlServer.xml
 E:\实s\项目01\tm\Demo01\Entity\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
 E:\实s\项目01\tm\Demo01\Entity\obj\Debug\Entity.csproj.CopyComplete
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\Entity.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\Entity.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.xml
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\obj\Debug\Entity.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\Entity\obj\Debug\Entity.pdb

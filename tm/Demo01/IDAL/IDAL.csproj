@@ -49,6 +49,7 @@
     <Compile Include="ILeaveDAL.cs" />
     <Compile Include="INoticeDAL.cs" />
     <Compile Include="IOvertimeDAL.cs" />
+    <Compile Include="IPayRiseDAL.cs" />
     <Compile Include="IPaySlipDAL.cs" />
     <Compile Include="IPaySlipIDDAL.cs" />
     <Compile Include="IRoleDAL.cs" />

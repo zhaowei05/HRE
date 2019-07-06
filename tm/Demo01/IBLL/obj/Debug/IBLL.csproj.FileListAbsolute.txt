@@ -1,0 +1,5 @@
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IBLL\bin\Debug\IBLL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IBLL\bin\Debug\IBLL.pdb
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IBLL\obj\Debug\IBLL.dll
+E:\新建文件夹 (4)\实训\项目01\tm\Demo01\IBLL\obj\Debug\IBLL.pdb

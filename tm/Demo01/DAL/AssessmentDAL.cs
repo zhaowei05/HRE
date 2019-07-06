@@ -82,7 +82,19 @@ namespace DAL
         /// <returns></returns>
         public int Add(Assessment entity)
         {
-           string sql="insert into Assessment(PerformanceTime)"
+            string sql = "insert into Assessment(PerformanceTime,UserID,WorkSummary,UpperGoal,CompletionDegree,ExaminationItems,NextStageObjectives,PerformanceScore,comments,perstate) values(@PerformanceTime,@UserID,@WorkSummary,@UpperGoal, @CompletionDegree,@ExaminationItems,@NextStageObjectives,@PerformanceScore,@comments,@perstate)";
+            db.PrepareSql(sql);
+            db.SetParameter("PerformanceTime", entity.PerformanceTime);
+            db.SetParameter("UserID", entity.UserID);
+            db.SetParameter("WorkSummary", entity.WorkSummary);
+            db.SetParameter("UpperGoal", entity.UpperGoal);
+            db.SetParameter("CompletionDegree", entity.CompletionDegree);
+            db.SetParameter("ExaminationItems", entity.ExaminationItems);
+            db.SetParameter("NextStageObjectives", entity.NextStageObjectives);
+            db.SetParameter("PerformanceScore", entity.PerformanceScore);
+            db.SetParameter("comments", entity.comments);
+            db.SetParameter("perstate", entity.perstate);
+            return db.ExecNonQuery();
         }
         /// <summary>
         /// 删除
@@ -90,7 +102,9 @@ namespace DAL
         /// <returns></returns>
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            string sql = "delete from Assessment where AssessmentID=" + id;
+            db.PrepareSql(sql);
+            return db.ExecNonQuery();
         }
         /// <summary>
         /// 修改
@@ -98,7 +112,21 @@ namespace DAL
         /// <returns></returns>
         public int Update(Assessment entity)
         {
-            throw new NotImplementedException();
+            string sql = "update Assessment set PerformanceTime=@PerformanceTime,UserID=@UserID,WorkSummary=@WorkSummary,UpperGoal=@UpperGoal,CompletionDegree=@CompletionDegree,ExaminationItems=@ExaminationItems,NextStageObjectives=@NextStageObjectives,PerformanceScore=@PerformanceScore,comments=@comments,perstate=@perstate where AssessmentID=@AssessmentID";
+            db.PrepareSql(sql);
+            db.SetParameter("PerformanceTime", entity.PerformanceTime);
+            db.SetParameter("UserID", entity.UserID);
+            db.SetParameter("WorkSummary", entity.WorkSummary);
+            db.SetParameter("UpperGoal", entity.UpperGoal);
+            db.SetParameter("CompletionDegree", entity.CompletionDegree);
+            db.SetParameter("ExaminationItems", entity.ExaminationItems);
+            db.SetParameter("NextStageObjectives", entity.NextStageObjectives);
+            db.SetParameter("PerformanceScore", entity.PerformanceScore);
+            db.SetParameter("comments", entity.comments);
+            db.SetParameter("perstate", entity.perstate);
+            db.SetParameter("AssessmentID", entity.AssessmentID);
+            return db.ExecNonQuery();
+
         }
     }
 }
