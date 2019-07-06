@@ -23,5 +23,7 @@ namespace Entity
         public Nullable<System.DateTime> EntryTime { get; set; }
         public Nullable<System.DateTime> DimissionTime { get; set; }
         public Nullable<decimal> BasePay { get; set; }
+
+        public Department department { get; set; }
     }
 }

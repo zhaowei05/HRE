@@ -51,6 +51,7 @@
     <Compile Include="IOvertimeDAL.cs" />
     <Compile Include="IPaySlipDAL.cs" />
     <Compile Include="IPaySlipIDDAL.cs" />
+    <Compile Include="IRoleDAL.cs" />
     <Compile Include="ISystemLogDAL.cs" />
     <Compile Include="IUserInfoDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
